@@ -1,12 +1,12 @@
 {
-  "author": "Thomas Blobaum <tblobaum@gmail.com> (https://github.com/tblobaum/)",
-  "name": "rconsole",
+  "author": "Thomas Blobaum <tblobaum@gmail.com> (https://github.com/tblobaum/)",  
+  "name": "nrconsole",
   "description": "'syslog.h' bindings with a revised console module",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/tblobaum/rconsole",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tblobaum/rconsole.git"
+    "url": "git@github.com:margh/rconsole.git"
   },
   "scripts": {
     "test": "make test",
@@ -20,6 +20,6 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": "*"
+    "node": "0.10.*"
   }
 }

@@ -1,5 +1,5 @@
 ## This is forked from https://github.com/tblobaum/rconsole
-## as a stopgap for the main fork being updated for node 0.10.*
+This fork is being used as a stopgap while the main repo is updated for node 0.10.*
 
 # revised console
 

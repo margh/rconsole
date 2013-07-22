@@ -1,6 +1,7 @@
 ## This is forked from https://github.com/tblobaum/rconsole
 This fork is being used as a stopgap while the main repo is updated for node 0.10.*
-It is available using npm as `nrconsole`
+
+Published on npm as `nrconsole`
 
 
 # revised console
@@ -9,7 +10,7 @@ C bindings to syslog and a fast, more feature-rich console module.
 
 ## Install
 
-    $ npm install rconsole
+    $ npm install nrconsole
 
 ## Examples
 

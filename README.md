@@ -1,5 +1,7 @@
 ## This is forked from https://github.com/tblobaum/rconsole
 This fork is being used as a stopgap while the main repo is updated for node 0.10.*
+It is available using npm as `nrconsole`
+
 
 # revised console
 
